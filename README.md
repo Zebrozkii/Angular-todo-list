@@ -1,4 +1,8 @@
-# ToDo
+# To Do List
+### by Tanner Damron & Jimmy Zebroski
+
+##Description
+A web page to practice Angular and TypeScript, using a To Do List.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
